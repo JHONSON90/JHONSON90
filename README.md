@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Edison Portilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Estudent;learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;learning+new+things"></a>
 </p>
 
 
@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="70px" /> <b><i align="center"><b>Programmers are like ninjas:</b> they live in the shadows, type code at lightning speed, <br> and solve problems that most people don't even know exist.</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70px" />
   <br>
   <br>
-  What does one zero say to another zero <br>
+  What does one zero say to another zero? <br>
   <b>Nice belt!</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="70px" />
   </p>
 
@@ -40,10 +40,12 @@
  </p>
 <br><br><br><br>
  
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100px">&nbsp;***Git activeness...***
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="70px">&nbsp;***Git activeness...***
 <p align="center"> 
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JHONSON90&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JHONSON90&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+      <h4 align="center">Visitor's count :eyes:</h4>
+      <p align="center"><img src="https://profile-counter.glitch.me/{JHONSON90}/count.svg" alt="JHONSON90 :: Visitor's Count" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JHONSON90&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="ovi" /></p>
+      <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JHONSON90&show_icons=true&locale=en&theme=ayu-mirage" alt="ovi" width="410" /></p>
 <br><br><br><br>
  
 </p>
