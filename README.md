@@ -23,30 +23,37 @@ I am a **Data Analyst** transitioning from Software Engineering, combining stron
 
 ---
 
-### 🛠️ Data Science Tech Stack
+### 🛠️ Data Analyst Tech Stack
 
-I specialize in the Python ecosystem for data analysis, handling everything from ETL processes to advanced visualization.
+I leverage a hybrid stack, combining the raw power of Python for heavy lifting with modern BI tools for executive reporting.
 
-#### **Data Manipulation & Processing**
+#### **💻 Core, Processing & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-> *I leverage **Pandas** for robust data cleaning and **Polars** for high-performance processing on large datasets, ensuring efficiency regardless of data volume.*
-
-#### **Data Visualization & Storytelling**
+#### **📈 Visualization & Data Apps**
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flet-00B0FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flet"/>
+  <img src="https://img.shields.io/badge/Reflex-000000?style=for-the-badge&logo=python&logoColor=white" alt="Reflex"/>
 </p>
 
-> *Transforming numbers into visuals using **Matplotlib** and **Seaborn** for static statistical analysis, and **Plotly** for interactive dashboards.*
+#### **📊 Business Intelligence & Spreadsheet**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
 
+> *My workflow typically involves data extraction with **SQL/Python**, advanced processing with **Polars/Pandas**, and final delivery via **Power BI dashboards** or custom **Streamlit apps** depending on client needs.*
 ---
 
 ### 📊 GitHub Stats
