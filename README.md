@@ -66,7 +66,7 @@ I leverage a hybrid stack, combining the raw power of Python for heavy lifting w
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JHONSON90/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=JHONSON90&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
