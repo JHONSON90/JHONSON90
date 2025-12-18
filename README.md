@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/datasets/master/Images/data-science.png" width="400" alt="Data Science Banner" />
+  <img src="[https://raw.githubusercontent.com/platzi/datasets/master/Images/data-science.png](https://i.pinimg.com/originals/ec/29/67/ec2967eebf71e31cd1cb47e3252e36cd.gif)" width="400" alt="Data Science Banner" />
 </p>
 
 ---
